@@ -9,8 +9,8 @@
 * [Project Link](#project-link)
 * [Development Strategy](#development-strategy)
 * [Contributing](#contributing)
-* [Acknowledgement](#acknowledgement)
 * [License](#license)
+* [Acknowledgement](#acknowledgement)
 
 ## Project Description
 
@@ -47,7 +47,7 @@ This [Pixel Art Maker Project](https://neorusse.github.io/Pixel-Art-Maker-Projec
   
 ## Project Link
 
-To access this project on the web, click on this link: [Pixel Art Maker Project](https://neorusse.github.io/Pixel-Art-Maker-Project/)
+To access this project on the web, click on this link: [Pixel Art Maker Project](https://neorusse.github.io/Pixel-Art-Maker-Project/) and view in any web browser such as [Edge](https://www.microsoft.com/en-us/download/details.aspx?id=48126), [Firefox](https://www.mozilla.org/en-US/firefox/new/), or [Chrome](https://support.google.com/chrome/answer/95346?hl=en) etc
 
 ## Development Strategy
 
@@ -67,10 +67,10 @@ Note: To complete Pixel Art Maker, you must be using the current version of [Edg
 
 This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
 
-## Acknowledgemant
-
-I gratefull to [Google](https://www.google.com/) for providing me this opportunity of learning Frontend Web Development under Scholarship. [Udacity](https://www.udacity.com/) and the course instructor have been very impactful, I appreciate you. I specially thank [Andela](https://andela.com/), the project manager of this Scholarship Program. All our Mentors, Program Assistant, Local Meetup coordinators and fellow scholars on the [Slack](https://slack.com/) Forum, you guys equally appreciated.
-
 ## License
 
 This Pixel Art Maker Project is released under [GNU General Public License v3.0](https://github.com/neorusse/Pixel-Art-Maker-Project/blob/master/LICENSE).
+
+## Acknowledgemant
+
+I gratefull to [Google](https://www.google.com/) for providing me this opportunity of learning Frontend Web Development under Scholarship. [Udacity](https://www.udacity.com/) and the course instructor have been very impactful, I appreciate you. I specially thank [Andela](https://andela.com/), the project manager of this Scholarship Program. All our Mentors, Program Assistant, Local Meetup coordinators and fellow scholars on the [Slack](https://slack.com/) Forum, you guys are equally appreciated.
