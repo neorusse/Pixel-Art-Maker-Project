@@ -4,8 +4,13 @@
 
 * [Project Description](#project-description)
 * [Instructions](#instructions)
+* [Build With](#build-with)
+* [Author](#author)
+* [Project Link](#project-link)
 * [Development Strategy](#development-strategy)
 * [Contributing](#contributing)
+* [Acknowledgement](#acknowledgement)
+* [License](#license)
 
 ## Project Description
 
@@ -22,10 +27,27 @@ The Starter Template can be downloaded through either:
 
 The starter template contains basic styling, but feel free to style the app as you please! You should write your code and markup to meet the specifications provided in these style guides:
 
-  * [CSS Style Guide](http://udacity.github.io/frontend-nanodegree-styleguide/css.html)
   * [HTML Style Guide](http://udacity.github.io/frontend-nanodegree-styleguide/index.html)
+  * [CSS Style Guide](http://udacity.github.io/frontend-nanodegree-styleguide/css.html)
   * [JavaScript Style Guide](http://udacity.github.io/frontend-nanodegree-styleguide/javascript.html)
   * [Git Style Guide](https://udacity.github.io/git-styleguide/)
+  
+## Build With
+
+  * VS Code Editor
+  * Chrome Browser
+  * HTML
+  * CSS
+  * JavaScript
+  * jQuery
+  
+## Author
+
+This [Pixel Art Maker Project](https://neorusse.github.io/Pixel-Art-Maker-Project/) was developed by *Russell Nyorere* with the starter template provided by [Udacity](https://www.udacity.com/).
+  
+## Project Link
+
+To access this project on the web, click on this link: [Pixel Art Maker Project](https://neorusse.github.io/Pixel-Art-Maker-Project/)
 
 ## Development Strategy
 
@@ -44,3 +66,11 @@ Note: To complete Pixel Art Maker, you must be using the current version of [Edg
 ## Contributing
 
 This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
+
+## Acknowledgemant
+
+I gratefull to [Google](https://www.google.com/) for providing me this opportunity of learning Frontend Web Development under Scholarship. [Udacity](https://www.udacity.com/) and the course instructor have been very impactful, I appreciate you. I specially thank [Andela](https://andela.com/), the project manager of this Scholarship Program. All our Mentors, Program Assistant, Local Meetup coordinators and fellow scholars on the [Slack](https://slack.com/) Forum, you guys equally appreciated.
+
+## License
+
+This Pixel Art Maker Project is released under [GNU General Public License v3.0](https://github.com/neorusse/Pixel-Art-Maker-Project/blob/master/LICENSE).
