@@ -2,9 +2,9 @@
 
 ## Table of Contents
 
-* [Project Description](#project description)
+* [Project Description](#project-description)
 * [Instructions](#instructions)
-* [Development Strategy](#development strategy)
+* [Development Strategy](#development-strategy)
 * [Contributing](#contributing)
 
 ## Project Description
