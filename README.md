@@ -71,6 +71,6 @@ This repository is the starter code for _all_ Udacity students. Therefore, we mo
 
 This Pixel Art Maker Project is released under [GNU General Public License v3.0](https://github.com/neorusse/Pixel-Art-Maker-Project/blob/master/LICENSE).
 
-## Acknowledgemant
+## Acknowledgement
 
 I gratefull to [Google](https://www.google.com/) for providing me this opportunity of learning Frontend Web Development under Scholarship. [Udacity](https://www.udacity.com/) and the course instructor have been very impactful, I appreciate you. I specially thank [Andela](https://andela.com/), the project manager of this Scholarship Program. All our Mentors, Program Assistant, Local Meetup coordinators and fellow scholars on the [Slack](https://slack.com/) Forum, you guys are equally appreciated.
